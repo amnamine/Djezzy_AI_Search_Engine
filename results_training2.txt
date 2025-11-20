@@ -1,0 +1,44 @@
+[INFO] Training new model with 'Djezzy_Dataset_Final_10k.csv'...
+[AI] Loading dataset from Djezzy_Dataset_Final_10k.csv...
+[AI] Training model on 12000 examples...
+[AI] Training Complete.
+[SUCCESS] Model saved to 'djezzy_ai_brain2.pkl'
+
+==================================================
+   DJIBLY INTELLIGENT SEARCH DEMO   
+==================================================
+
+>> User Search: 'internet 2000'
+   [****] (0.95) -> Pack Internet 60Go [2000 DA]
+   [****] (0.94) -> HOCO [1 DA]
+   [****] (0.93) -> D-Tech [13 DA]
+   [****] (0.93) -> Revaleo [350 DA]
+   [****] (0.93) -> D-Tech [15 DA]
+
+>> User Search: 'legende deux mille'
+   [****] (0.95) -> Pack Internet 60Go [2000 DA]
+   [****] (0.95) -> HOCO [1 DA]
+   [****] (0.94) -> Revaleo [350 DA]
+   [****] (0.94) -> D-Tech [13 DA]
+   [****] (0.94) -> Revaleo [800 DA]
+
+>> User Search: 'samsng galaxy'
+   [****] (0.94) -> Pack Internet 60Go [2000 DA]
+   [****] (0.93) -> HOCO [1 DA]
+   [****] (0.93) -> Djezzy s�allie � Algeria-Venture pour le d�veloppement de l�entreprenariat [0 DA]
+   [****] (0.92) -> D-Tech [13 DA]
+   [****] (0.92) -> Forfaits Roaming Egypte [0 DA]
+
+>> User Search: 'verser credit'
+   [****] (0.94) -> Pack Internet 60Go [2000 DA]
+   [****] (0.93) -> HOCO [1 DA]
+   [****] (0.93) -> Djezzy s�allie � Algeria-Venture pour le d�veloppement de l�entreprenariat [0 DA]
+   [****] (0.92) -> D-Tech [13 DA]
+   [****] (0.92) -> Forfaits Roaming Egypte [0 DA]
+
+>> User Search: 'wifi dar'
+   [****] (0.95) -> Pack Internet 60Go [2000 DA]
+   [****] (0.94) -> HOCO [1 DA]
+   [****] (0.94) -> D-Tech [13 DA]
+   [****] (0.93) -> Revaleo [350 DA]
+   [****] (0.93) -> D-Tech [15 DA]

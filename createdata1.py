@@ -6,7 +6,7 @@ import sys
 
 # --- CONFIGURATION ---
 JSON_FILES = ['scraping1.json', 'scraping2.json', 'scraping3.json']
-OUTPUT_CSV = 'Djezzy_AI_Training_Dataset_L3.csv'
+OUTPUT_CSV = 'dataset_train1.csv'
 TARGET_ROWS = 12000  
 
 # --- 1. THE "GOLD STANDARD" CATALOG ---

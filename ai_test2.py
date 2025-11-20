@@ -8,8 +8,8 @@ from sklearn.linear_model import SGDClassifier
 from sklearn.pipeline import Pipeline
 
 # --- CONFIGURATION ---
-DATASET_FILE = "Djezzy_AI_Training_Dataset_L3.csv"
-MODEL_FILE = "djezzy_ai_brain.pkl"
+DATASET_FILE = "dataset_train2.csv"
+MODEL_FILE = "djezzy_ai_brain2.pkl"
 
 # --- 1. THE BRAIN: SYNONYM MAPPING ---
 SYNONYMS = {
@@ -21,7 +21,9 @@ SYNONYMS = {
     "puce": "sim",
     "legende": "legend",
     "verser": "flexy",
-    "storm": "flexy"
+    "storm": "flexy",
+    "hètf": "telephone",
+    "jawl": "telephone"
 }
 
 def preprocess_query(query):
@@ -130,13 +132,10 @@ class DjezzySearchAI:
 if __name__ == "__main__":
     engine = DjezzySearchAI()
     
-    # CHECK: If model exists, load it. If not, train it.
-    if os.path.exists(MODEL_FILE):
-        engine.load_model(MODEL_FILE)
-    else:
-        print("[INFO] No saved model found. Starting training...")
-        engine.train(DATASET_FILE)
-        engine.save_model(MODEL_FILE) # <--- SAVING HAPPENS HERE
+    # Force training with the new dataset
+    print("[INFO] Training new model with 'Djezzy_Dataset_Final_10k.csv'...")
+    engine.train(DATASET_FILE)
+    engine.save_model(MODEL_FILE)
     
     # --- DEMO ---
     test_queries = [
