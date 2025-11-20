@@ -1,0 +1,44 @@
+[AI] Loading dataset from dataset_train4.csv...
+[AI] Training model on 10385 examples...
+[AI] Training Complete.
+[SUCCESS] Model saved to 'djezzy_ai_brain4.pkl'
+
+==================================================
+   DJIBLY INTELLIGENT SEARCH DEMO   
+==================================================
+
+>> User Search: 'tablette'
+   [MATCH] (0.53) -> D Link BOX Home M915V [9 100 DA]
+   [MATCH] (0.53) -> D Link BOX Home M915V [9 100 DA]
+   [MATCH] (0.53) -> D Link Cl� 4G DWR 910M Wifi [4 500 DA]
+   [MATCH] (0.52) -> ZTE Blade A55 [20 900 DA]
+   [MATCH] (0.50) -> HOCO �couteur  EW26 [2 900 DA]
+
+>> User Search: 'wifi d-link'
+   [MATCH] (0.52) -> D Link Cl� 4G DWR 910M Wifi [4 500 DA]
+   [MATCH] (0.52) -> D Link BOX Home M915V [9 100 DA]
+   [MATCH] (0.52) -> D Link BOX Home M915V [9 100 DA]
+   [MATCH] (0.51) -> D Link D Link DWR G403 [10 500 DA]
+   [MATCH] (0.51) -> D Link D Link DWR G403 [10 500 DA]
+
+>> User Search: 'telephone zte'
+   [MATCH] (0.75) -> ZTE ZTE BLADE A35 [17 900 DA]
+   [MATCH] (0.75) -> ZTE ZTE BLADE A35 [17 900 DA]
+   [MATCH] (0.74) -> ZTE ZTE BLADE A75 [31 900 DA]
+   [MATCH] (0.74) -> ZTE ZTE BLADE A75 [31 900 DA]
+   [MATCH] (0.72) -> ZTE ZTE BLADE V60 DESIGN [32 900 DA]
+
+>> User Search: 'kitman hoco'
+   [MATCH] (0.62) -> HOCO ECOUTEUR EQ3 [3 500 DA]
+   [MATCH] (0.62) -> HOCO ECOUTEUR EQ2 [2 800 DA]
+   [MATCH] (0.62) -> HOCO ECOUTEUR EQ4 [4 800 DA]
+   [MATCH] (0.60) -> HOCO ECOUTEUR EW39 [5 500 DA]
+   [MATCH] (0.59) -> HOCO �couteur  EW26 [2 900 DA]
+
+>> User Search: 'modem 4g'
+   [MATCH] (0.51) -> D Link Cl� 4G DWR 910M Wifi [4 500 DA]
+   [MATCH] (0.50) -> D Link BOX Home M915V [9 100 DA]
+   [MATCH] (0.50) -> D Link BOX Home M915V [9 100 DA]
+   [MATCH] (0.44) -> D Link D Link DWR G403 [10 500 DA]
+   [MATCH] (0.44) -> D Link D Link DWR G403 [10 500 DA]
+
