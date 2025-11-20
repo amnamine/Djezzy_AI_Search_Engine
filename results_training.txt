@@ -1,0 +1,42 @@
+[AI] Loading dataset from Djezzy_AI_Training_Dataset_L3.csv...
+[AI] Training model on 12000 examples...
+[AI] Model Trained Successfully! [OK]
+
+==================================================
+   DJIBLY INTELLIGENT SEARCH DEMO   
+==================================================
+
+>> User Search: 'internet 2000'
+   **** (0.92) -> Flexy / Recharge [100 DA]
+   **** (0.91) -> Pack Internet 60Go [2000 DA]
+   **** (0.90) -> Djezzy Legend 2000 [2000 DA]
+   **** (0.89) -> Hayla Bezzef 500 [500 DA]
+   **** (0.89) -> Djezzy Legend 2500 [2500 DA]
+
+>> User Search: 'legende deux mille'
+   **** (0.92) -> Flexy / Recharge [100 DA]
+   **** (0.91) -> Djezzy Legend 2500 [2500 DA]
+   **** (0.90) -> Djezzy Legend 2000 [2000 DA]
+   **** (0.89) -> Hayla Bezzef 1500 [1500 DA]
+   **** (0.89) -> Modem Djezzy 4G [6000 DA]
+
+>> User Search: 'samsng galaxy'
+   **** (0.93) -> Flexy / Recharge [100 DA]
+   **** (0.91) -> Modem Djezzy 4G [6000 DA]
+   **** (0.91) -> Pack Internet 60Go [2000 DA]
+   **** (0.91) -> Djezzy Legend 2500 [2500 DA]
+   **** (0.91) -> Hayla Bezzef 500 [500 DA]
+
+>> User Search: 'verser credit'
+   **** (0.93) -> Flexy / Recharge [100 DA]
+   **** (0.90) -> Djezzy Legend 2500 [2500 DA]
+   **** (0.90) -> Pack Internet 60Go [2000 DA]
+   **** (0.90) -> Modem Djezzy 4G [6000 DA]
+   **** (0.89) -> Hayla Bezzef 500 [500 DA]
+
+>> User Search: 'wifi dar'
+   **** (0.92) -> Flexy / Recharge [100 DA]
+   **** (0.92) -> Modem Djezzy 4G [6000 DA]
+   **** (0.89) -> Pack Internet 60Go [2000 DA]
+   **** (0.88) -> Djezzy Legend 2500 [2500 DA]
+   **** (0.88) -> Hayla Bezzef 1500 [1500 DA]
